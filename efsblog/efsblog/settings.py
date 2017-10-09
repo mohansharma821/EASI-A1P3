@@ -44,8 +44,8 @@ INSTALLED_APPS = [
 
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'mohansharma821'
-EMAIL_HOST_PASSWORD = 'Hariom258$'
+EMAIL_HOST_USER = 'mohan.groupon1'
+EMAIL_HOST_PASSWORD = 'MS123456'
 EMAIL_USE_TLS = True
 DEFAULT_FROM_EMAIL = 'EFS Team <noreply@efs.com>'
 
